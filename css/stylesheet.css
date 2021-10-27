@@ -1,0 +1,24 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+table {
+    margin: 30px;
+    width: calc(100% - 60px);
+}
+
+nav {
+    margin-bottom: 10px;
+}
+
+.coloranzeige {
+    width: 50px;
+    height: 20px;
+    margin-right: 5px;
+    float: left;
+}
+
+.btn-large {
+    float: right;
+    margin: 20px;
+}
